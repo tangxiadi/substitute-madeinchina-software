@@ -2,7 +2,7 @@
 
 相信多数人心中清楚，现在国产软件、服务对于用户毫无隐私可言。于是许多人想找国外的替代方案，但却不知如何选择，这里给出一系列的参考。
 
-*常用软件：*
+> ## 常用软件 ##
 
 ## 杀毒软件 ##
 
@@ -85,7 +85,7 @@ IM（即时通讯）：IM最大的问题在于如果身边的人不肯由QQ换�
 1. DiskCryptor：[下载地址](https://diskcryptor.net/wiki/Main_Page)，逃离棱镜的项目之一，无中文版
 2. VeraCrypt：[下载地址](http://sourceforge.net/projects/veracrypt/)，[教程](http://allinfa.com/veracrypt-10e.html)，开源免费有中文版
 
-*网络服务：*
+> ## 网络服务 ##
 
 ## 邮箱 ##
 
