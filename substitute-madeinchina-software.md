@@ -2,11 +2,9 @@
 
 相信多数人心中清楚，现在国产软件、服务对于用户毫无隐私可言。于是许多人想找国外的替代方案，但却不知如何选择，这里给出一系列的参考。
 
-*下面分类介绍常用软件：*
+*常用软件：*
 
 ## 杀毒软件 ##
-
-先从杀毒软件说起，国外优秀的杀软：
 
 1. AVG([下载地址](http://www.avg.com/ww-en/homepage)，有简中版和免费版)
 2. AVAST（[下载地址](https://search.disconnect.me/searchTerms/serp?search=b6720db3-ec5b-4e9c-a1d1-e9c976ee5bfe)，[教程](https://securityinabox.org/zh/avast)有简中版和免费版）
@@ -17,7 +15,7 @@
 
 ## 防火墙 ##
 
-　再来看看防火墙：除了我前面提到过的**Comodo防护墙**大家可以考虑一下之外，个人建议平时使用**Windows自带的防火墙**就足够了，如果使用Linux系统连杀软和防火墙都省了（关于Linux，我以后会进行介绍，不过用习惯windows的人很难接受Linux）
+　除了我前面提到过的**Comodo防护墙**大家可以考虑一下之外，个人建议平时使用**Windows自带的防火墙**就足够了，如果使用Linux系统连杀软和防火墙都省了。
 
 ## 清理工具 ##
 
@@ -28,19 +26,16 @@
 　还有一个能**干净卸载软件**（尤其是已有的国产流氓）的软件：Revo Uninstaller （[下载地址](http://www.revouninstaller.com/start_freeware_download.html)，[教程](http://www.revouninstaller.com/manuals/RevoUninstallerProHelp_Chinese.pdf)有免费版）
 
 　想要**开机速度**快一点，可以选择Autoruns（[下载地址](http://filehippo.com/download_autoruns)，[教程](http://tech.huweishen.com/gongju/968.html)免费版，可以管理开机启动项）
-至于进程监控（还有网络活动监控），小白请先学会看懂Windows任务管理器和资源监视器再说别的，总之别相信360之流。
+
+　至于**进程监控**（还有**网络活动监控**），小白请先学会看懂Windows任务管理器和资源监视器再说别的，总之别相信360之流。
 
 ## 恶意软件 ##
-
-对付恶意软件的软件：
 
 1. Spybot：（[下载地址](https://securityinabox.org/zh/spybot_main)，有免费版）
 2. Comodo Cleaning Essentials：（[下载地址](https://www.comodo.com/business-security/network-protection/cleaning_essentials.php?track=2745)，免费的）
 3. Detekt：（[下载地址](https://resistsurveillance.org/)只能检查，不能清除）
 
 ## 视频音频播放 ##
-
-再推荐一下视频音频播放软件：
 
 1. VLC（[下载地址](https://www.videolan.org/index.html)，开源免费有简中版）
 2. SMPlayer（[下载地址](http://smplayer.sourceforge.net/)，开源免费但似乎无中文版）
@@ -66,8 +61,6 @@
 
 ## 文档处理 ##
 
-文档编辑和阅读：
-
 1. Microsoftword系列：WIN系统自带的，不用我多说了。一般的文档编辑，PPT或EXCEL制作用系统自带的就足够了。
 2. Adobe Reader：[下载地址](https://get.adobe.com/reader/)，免费但不开源
 3. SumatraPDF：[下载地址](http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html)，开源免费且支持几乎所有常见电子书格式（不仅仅是PDF，EUPB和MOBI也支持）
@@ -92,7 +85,7 @@ IM（即时通讯）：IM最大的问题在于如果身边的人不肯由QQ换�
 1. DiskCryptor：[下载地址](https://diskcryptor.net/wiki/Main_Page)，逃离棱镜的项目之一，无中文版
 2. VeraCrypt：[下载地址](http://sourceforge.net/projects/veracrypt/)，[教程](http://allinfa.com/veracrypt-10e.html)，开源免费有中文版
 
-*常用软件差不多就这些（欢迎补充），接下来推荐一下安全网络服务：*
+*网络服务：*
 
 ## 邮箱 ##
 

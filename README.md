@@ -31,7 +31,8 @@
 　还有一个能**干净卸载软件**（尤其是已有的国产流氓）的软件：Revo Uninstaller （[下载地址](http://www.revouninstaller.com/start_freeware_download.html)，[教程](http://www.revouninstaller.com/manuals/RevoUninstallerProHelp_Chinese.pdf)有免费版）
 
 　想要**开机速度**快一点，可以选择Autoruns（[下载地址](http://filehippo.com/download_autoruns)，[教程](http://tech.huweishen.com/gongju/968.html)免费版，可以管理开机启动项）
-至于进程监控（还有网络活动监控），小白请先学会看懂Windows任务管理器和资源监视器再说别的，总之别相信360之流。
+
+　至于**进程监控**（还有**网络活动监控**），小白请先学会看懂Windows任务管理器和资源监视器再说别的，总之别相信360之流。
 
 ## 恶意软件 ##
 
